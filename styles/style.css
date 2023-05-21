@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #000428;
+        /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #004e92, #000428);
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #004e92, #000428);
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.card{
+    background: #8360c3;
+        /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2ebf91, #8360c3);
+        /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2ebf91, #8360c3);
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 520px;
+    margin-top: 40px;
+}
+
+
+
+
+
+.search_button{
+    width:45px;
+    position: relative;
+    border-radius: 10px;
+}
+
+input{
+    border: 1px solid white;
+    border-radius: 12px;
+    margin-left: 40px;
+    width: 299px;
+    height: 36px;
+}
+
+button{
+    position: relative;
+    top: 20px;
+    border: 1px solid black;
+    border-radius: 12px;
+    border-radius: 4px;
+}
+
+
+.clouds{
+    width: 190px;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+.temp{
+    color: black;
+    margin-left: 160px;
+    font-size:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.city{
+    color: black;
+    margin-left: 140px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.hum{
+    width:120px;
+    margin-left: 150px;
+}
+
+
+.humidity{
+    color: black;
+    margin-left: 180px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.word_humidity{
+    color: black;
+    margin-left: 170px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wind_img{
+    width: 120px;
+    margin-left: 150px;
+}
+
+.wind{
+    color: black;
+    margin-left: 170px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.word_wind{
+    color: black;
+    margin-left: 160px;
+    margin-bottom: 22px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+}
+
+
+
